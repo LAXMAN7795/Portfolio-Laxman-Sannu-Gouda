@@ -1,5 +1,7 @@
 # Laxman Sannu Gouda | Personal Portfolio
 
+**🌐 Live Website**: [https://LAXMAN7795.github.io/Portfolio-Laxman-Sannu-Gouda/](https://LAXMAN7795.github.io/Portfolio-Laxman-Sannu-Gouda/)
+
 A modern, highly interactive, and responsive personal portfolio website showcasing my skills, experience, and projects in Software Engineering, Artificial Intelligence, and Data Science.
 
 ## 🌟 Features
