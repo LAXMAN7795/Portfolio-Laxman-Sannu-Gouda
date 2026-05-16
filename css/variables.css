@@ -1,0 +1,32 @@
+:root {
+    --bg-color: #050505;
+    --surface-color: #111111;
+    --surface-color-light: #1a1a1a;
+    --primary-color: #00f0ff;
+    --primary-color-dim: rgba(0, 240, 255, 0.2);
+    --secondary-color: #7000ff;
+    --text-primary: #ffffff;
+    --text-secondary: #a0a0a0;
+    --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+    --font-mono: 'JetBrains Mono', 'Fira Code', monospace;
+    --transition-fast: 0.2s ease;
+    --transition-medium: 0.4s ease;
+}
+
+html {
+    scroll-behavior: smooth;
+    background-color: var(--bg-color);
+    color: var(--text-primary);
+    font-family: var(--font-sans);
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    background-image: 
+        linear-gradient(rgba(255, 255, 255, 0.03) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
+    background-size: 30px 30px;
+    background-position: center center;
+}
